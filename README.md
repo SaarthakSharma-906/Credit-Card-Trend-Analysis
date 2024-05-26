@@ -1,5 +1,5 @@
 
-# Credit Card Defaul Risk Analysis
+# Credit Card Default Risk Analysis
 
 
 
